@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charan Naik</h1>
 <h3 align="center">A passionate Full-Stack Web developer from India 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-charan&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-charan" /> </p>
-
 - 🌱 I’m currently learning **Everything👨‍💻**
 
 - 💬 Ask me about **anything, I'm happy to help**
@@ -25,6 +23,7 @@
 <p><a href="https://www.buymeacoffee.com/charanaik"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" width="120" alt="charanaik" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudo-charan&show_icons=true&locale=en" alt="sudo-charan" /></p>
+<center><p align="left"> <img src="https://komarev.com/ghpvc/?username=sudo-charan&label=Profile%20views&color=0e75b6&style=flat" alt="sudo-charan" /> </p></center>
 
 
 <!---
