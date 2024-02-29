@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **anything, I'm happy to help**
 
-- 📫 How to reach me **charanaikofficial@gmail.co**
+- 📫 How to reach me **charanaikofficial@gmail.com**
 
 - ⚡ Fun fact **My first line of code was not “Hello World!”**
 
