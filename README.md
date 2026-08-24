@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Charan from Mangalore.  <br>- 📚 I’m currently learning everything  <br>- 👨‍💻 All of my projects are available at:  github.com/sudo-charan  <br>- 💬 Ask me about anything, I'm happy to help  <br>- 📫 Reach me at: charanaikofficial@gmail.com  <br>- ⚡ Fun fact: My first line of code was not `Hello World!`</p>
+<p align="left">I'm Charan from Mangalore.  <br>- 📚 I’m currently learning everything  <br>- 👨‍💻 All of my projects are available at:  github.com/sudo-charan  <br>- 💬 Ask me about anything, I'm happy to help  <br>- 📫 Reach me at: charanrajmadanaguli@gmail.com  <br>- ⚡ Fun fact: My first line of code was not `Hello World!`</p>
 
 ###
 
