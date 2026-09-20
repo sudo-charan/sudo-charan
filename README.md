@@ -42,14 +42,11 @@ I learn primarily by building real-world projects, experimenting with new techno
 <h4 align="left">💻 Languages</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
 </div>
 
 ###
@@ -57,17 +54,17 @@ I learn primarily by building real-world projects, experimenting with new techno
 <h4 align="left">🌐 Frontend</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" title="Bootstrap" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" title="Next.js" />
 </div>
 
 ###
@@ -75,23 +72,23 @@ I learn primarily by building real-world projects, experimenting with new techno
 <h4 align="left">🔧 DevOps & Tools</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Vercel" title="Vercel" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" title="Postman" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
 </div>
 
 ###
@@ -99,25 +96,25 @@ I learn primarily by building real-world projects, experimenting with new techno
 <h4 align="left">🎨 Design & Productivity</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" title="Canva" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Adobe Photoshop" title="Adobe Photoshop" />
 </div>
 
 ###
 
-<h4 align="left">🛡️ Security & Linux</h4>
+<h4 align="left">🛡️Operating Systems</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali Linux" />
+  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="Kali Linux" title="Kali Linux" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=parrot" height="40" alt="Parrot OS" />
+  <img src="https://skillicons.dev/icons?i=parrot" height="40" alt="Parrot OS" title="Parrot OS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ollama" height="40" alt="Ollama" />
+  <img src="https://skillicons.dev/icons?i=ollama" height="40" alt="Ollama" title="Ollama" />
 </div>
 
 ###
