@@ -51,7 +51,6 @@ I learn primarily by building real-world projects, experimenting with new techno
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
 </div>
 
 ###
@@ -131,16 +130,6 @@ I learn primarily by building real-world projects, experimenting with new techno
 <b>🛡️ Cybersecurity</b> — System security, networking, web security, and ethical hacking.<br>
 <b>🤖 AI Security</b> — LLM safety, prompt injection, jailbreak detection, and secure AI interactions.<br>
 <b>🐧 Linux</b> — Linux systems, security tools, networking, and system administration.
-</p>
-
-###
-
-<h3 align="left">🌐 Portfolio</h3>
-
-<p align="center">
-  <a href="https://charanrajofficial.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
-  </a>
 </p>
 
 ###
