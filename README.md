@@ -14,12 +14,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-charan.sudo-charan&" alt="Profile Views" />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋 I'm Charanraj M</h1>
 
 ###
