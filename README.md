@@ -1,101 +1,158 @@
-<div align="center"> 
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+
+# Hey, I'm Charanraj M 👋
+
+### Full Stack Developer • Cybersecurity Enthusiast • B.Tech ISE Student
+
+Building practical web applications, exploring cybersecurity, and learning by turning ideas into real projects.
+
+<p>
+  <a href="https://charanrajofficial.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/charanrajm" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/sudo-charan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sudo--charan-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
 </div>
 
-###
+---
+
+## 👨‍💻 About Me
+
+I'm **Charanraj M**, a B.Tech student in **Information Science & Engineering at NMAMIT, Nitte**.
+
+I enjoy building software that is useful, reliable, and easy to use. Alongside full-stack development, I'm actively exploring **cybersecurity, Linux, networking, web security, and AI security**.
+
+I learn primarily by building real-world projects, experimenting with new technologies, and solving technical problems.
+
+> **Build. Break. Learn. Improve.**
+
+---
+
+## 🚀 What I Do
+
+- 🌐 Build full-stack web applications
+- 💻 Develop responsive and user-friendly interfaces
+- 🔐 Explore cybersecurity, Linux, networking, and web security
+- 🤖 Experiment with AI-powered applications and AI security
+- 🧩 Design practical backend systems and development workflows
+- 🛠️ Turn ideas and concepts into working projects
+- 📚 Continuously improve my software development and security skills
+
+---
+
+## 🌐 Portfolio
+
+### [charanrajofficial.vercel.app](https://charanrajofficial.vercel.app/)
+
+My personal developer portfolio where you can explore my:
+
+- 💻 Projects
+- 🛠️ Technical skills
+- 📚 Education
+- 💼 Experience
+- 🏆 Certifications
+- 📝 Blog posts
+- 📬 Contact information
+- 🤖 **Ask Charan AI** — an AI assistant that can answer questions about my work and technical journey
+
+**Built with:** React • Vite • Tailwind CSS • Firebase • Framer Motion
+
+<p>
+  <a href="https://charanrajofficial.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Open%20Portfolio-FF7A00?style=for-the-badge" alt="Open Portfolio">
+  </a>
+  <a href="https://github.com/sudo-charan/Developer-Portfolio">
+    <img src="https://img.shields.io/badge/💻%20View%20Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Source">
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,php" alt="Languages">
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend technologies">
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,mongodb,mysql" alt="Backend and database technologies">
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,figma" alt="Tools and platforms">
+</p>
+
+### Security & Networking
+
+<p>
+
+`Linux` • `Networking` • `Web Security` • `Ethical Hacking` • `AI Security`
+
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="www.linkedin.com/in/charanrajm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sudo-charan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Charanraj's GitHub statistics">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-charan&layout=compact&theme=dark&hide_border=true" alt="Charanraj's top languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sudo-charan&theme=dark&hide_border=true" alt="Charanraj's GitHub streak">
+
+</div>
+
+---
+
+## 🔭 Currently Working On
+
+- 🛡️ **GuardGPT** — intelligent prompt analysis and AI safety system
+- 🌐 Improving my full-stack development skills
+- 🔐 Exploring cybersecurity, Linux, networking, and web security
+- 🤖 Experimenting with AI-powered developer tools and AI security
+- 🚀 Building and improving practical software projects
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/charanrajm">
+    <img src="https://img.shields.io/badge/LinkedIn-Charanraj%20M-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[https://x.com/charan_naikk](https://x.com/charannaikk)" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://github.com/sudo-charan">
+    <img src="https://img.shields.io/badge/GitHub-sudo--charan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/heyy.charann_?igsh=czF3ZW12a3NtdXRi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://charanrajofficial.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Charanraj%20M-FF7A00?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://dev.to/charannaik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <a href="mailto:charanrajmadanaguli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-</div>
+</p>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-charan.sudo-charan&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Charan from Mangalore.  <br>- 📚 I’m currently learning everything  <br>- 👨‍💻 All of my projects are available at:  github.com/sudo-charan  <br>- 💬 Ask me about anything, I'm happy to help  <br>- 📫 Reach me at: charanrajmadanaguli@gmail.com  <br>- ⚡ Fun fact: My first line of code was not `Hello World!`</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-</div>
-
-<br />
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sudo-charan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
