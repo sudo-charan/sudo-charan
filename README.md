@@ -33,7 +33,6 @@ I learn primarily by building real-world projects, experimenting with new techno
 - 🌐 Build full-stack web applications
 - 💻 Develop responsive and user-friendly interfaces
 - 🔐 Explore cybersecurity, Linux, networking, and web security
-- 🤖 Experiment with AI-powered applications and AI security
 - 🧩 Design practical backend systems and development workflows
 - 🛠️ Turn ideas and concepts into working projects
 - 📚 Continuously improve my software development and security skills
@@ -126,15 +125,13 @@ I learn primarily by building real-world projects, experimenting with new techno
 <h3 align="left">🔐 Areas of Interest</h3>
 
 <p align="left">
-<b>💻 Full Stack Development</b> — Modern, responsive, and reliable web applications.<br>
-<b>🛡️ Cybersecurity</b> — System security, networking, web security, and ethical hacking.<br>
-<b>🤖 AI Security</b> — LLM safety, prompt injection, jailbreak detection, and secure AI interactions.<br>
-<b>🐧 Linux</b> — Linux systems, security tools, networking, and system administration.
+<b>Full Stack Development</b> — Modern, responsive, and reliable web applications.<br>
+<b>Cybersecurity</b> — System security, networking, web security, and ethical hacking.<br>
+<b>AI Security</b> — LLM safety, prompt injection, jailbreak detection, and secure AI interactions.<br>
+<b>Linux</b> — Linux systems, security tools, networking, and system administration.
 </p>
 
 ###
-
-<h3 align="left">📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sudo-charan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub streak graph" />
