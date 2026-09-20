@@ -93,17 +93,6 @@ I learn primarily by building real-world projects, experimenting with new techno
 
 ###
 
-<h3 align="left">📫 Connect With Me</h3>
-
-<p align="left">
-💻 <a href="https://github.com/sudo-charan">GitHub</a><br>
-💼 <a href="https://www.linkedin.com/in/charanrajm/">LinkedIn</a><br>
-🌐 <a href="https://charanrajofficial.vercel.app/">Portfolio</a><br>
-📧 <a href="mailto:charanrajmadanaguli@gmail.com">Email</a>
-</p>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sudo-charan.sudo-charan&" alt="Profile Views" />
 </div>
