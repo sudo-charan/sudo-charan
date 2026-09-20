@@ -16,23 +16,27 @@
 
 <h1 align="center">Hey there 👋 I'm Charanraj M</h1>
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">👨‍💻 About Me</h3>
+I'm **Charanraj M**, a B.Tech student in **Information Science & Engineering at NMAMIT, Nitte**.
 
-<p align="left">
-I'm a B.Tech Information Science & Engineering student at NMAMIT, Nitte, with a strong interest in software development, cybersecurity, Linux, and AI security.
-</p>
+I enjoy building software that is useful, reliable, and easy to use. Alongside full-stack development, I'm actively exploring **cybersecurity, Linux, networking, web security, and AI security**.
 
-<p align="left">
-- 🔭 Building full-stack web applications and security-focused projects.<br>
-- 🛡️ Exploring cybersecurity, Linux, networking, web security, and ethical hacking.<br>
-- 🤖 Working on <b>GuardGPT</b>, an intelligent prompt analysis and AI safety system.<br>
-- 🌱 Continuously learning about secure systems, AI security, and modern web technologies.<br>
-- 💼 Open to internships, collaborations, and meaningful projects.
-</p>
+I learn primarily by building real-world projects, experimenting with new technologies, and solving technical problems.
 
-###
+> **Build. Break. Learn. Improve.**
+
+---
+
+## 🚀 What I Do
+
+- 🌐 Build full-stack web applications
+- 💻 Develop responsive and user-friendly interfaces
+- 🔐 Explore cybersecurity, Linux, networking, and web security
+- 🤖 Experiment with AI-powered applications and AI security
+- 🧩 Design practical backend systems and development workflows
+- 🛠️ Turn ideas and concepts into working projects
+- 📚 Continuously improve my software development and security skills
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 
