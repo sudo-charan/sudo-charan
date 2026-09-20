@@ -75,25 +75,6 @@ I learn primarily by building real-world projects, experimenting with new techno
 
 ###
 
-<h3 align="left">🚀 Featured Project</h3>
-
-<p align="left">
-<b>GuardGPT</b> — Intelligent Prompt Analysis for Safe and Intent-Aware AI Interactions.
-</p>
-
-<p align="left">
-GuardGPT analyzes prompts, identifies intent and security risks, and determines whether a request should be allowed, sanitized, or blocked.
-</p>
-
-<p align="left">
-<b>Pipeline:</b> Input → Intent Analysis → Threat Scoring → Decision Engine → Action<br>
-<b>Focus:</b> AI Security • Prompt Injection • Jailbreak Detection • LLM Safety • MCP
-</p>
-
-<p><a href="https://github.com/BHAGYAPSHETTY/Guard_GPT">View GuardGPT on GitHub →</a></p>
-
-###
-
 <h3 align="left">🌐 Portfolio</h3>
 
 <p align="center">
